@@ -1,1 +1,3 @@
-I ceated this project around christmas and fully finished it around january first. This project takes names the user provides then it randomly provides random pairs for secret santa.
+I ceated this project around christmas for a hackathon hosted by codedex. This project takes names the user provides then it randomly provides random pairs for secret santa.
+The tests.py file has the coordinates for the present box using the turtle library.
+The program avoids giving someone themselves as a giver/receiver. 
